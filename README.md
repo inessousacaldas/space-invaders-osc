@@ -11,6 +11,7 @@ __Check the video or dissertation for more information:__
 
 * The dissertation (in portuguese) [here](https://repositorio-aberto.up.pt/handle/10216/114355).
 
+![Game With Sound Control](img/space_invaders_sound_control.gif "Game With Sound Control")
 
 ![Main Menu](img/space_invaders_menu.png "Main Menu")
 ![In Game Screen](img/space_invaders_game.png "In Game Screen")
